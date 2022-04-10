@@ -29,6 +29,7 @@ Target 2 i.e 19 is achieved in the 1st transaction itself.
 -------------------------------------------------------
 
 Test Case 2
+
 Enter the size of transaction array
 1
 Enter the values of array
@@ -61,6 +62,7 @@ Output
 Print the minimum no of notes that you will be using to pay the net amount.
 
 TestCase 1
+
 Enter the size of currency denominations
 3
 Enter the currency denominations value
@@ -76,6 +78,7 @@ Your payment approach in order to give min no of notes will be
 -------------------------------------------------------------------------------------------
 
 TestCase 2
+
 Enter the size of currency denominations
 5
 Enter the currency denominations value
@@ -93,6 +96,7 @@ Your payment approach in order to give min no of notes will be
 ----------------------------------------------------------------------------------------------
 
 TestCase 3
+
 Enter the size of currency denominations
 4
 Enter the currency denominations value
