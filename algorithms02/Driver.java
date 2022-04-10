@@ -33,9 +33,11 @@ public class Driver {
 				System.out.println("Your payment cannot be made");
 			}
 			else {
+				System.out.println("Your payment approach in order to give min no of notes will be");
 				for(int j=0;j<denomination_size;j++) {
-					if(count[j]>0)
+					if(count[j] > 0) {
 					System.out.println(currency_denominations[j]+":" +count[j]);
+					}
 				}
 			}
 		}
