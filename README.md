@@ -25,6 +25,7 @@ Target achieved after 1 transactions
 Explanation
 Target 1 i.e 21 is achieved after 2 transactions, (20 + 12)
 Target 2 i.e 19 is achieved in the 1st transaction itself.
+
 -------------------------------------------------------
 
 Test Case 2
@@ -37,8 +38,10 @@ Enter the total no of targets that needs to be achieved
 Enter the value of target
 101
 Given target is not achieved
+
 Explanation → Since there is only 1 transaction that is of 100 and the target value is 101,
 hence target is not achieved.
+
 -----------------------------------------------------------------------------------------------------------
 
 Question 2 Marks (12 )
