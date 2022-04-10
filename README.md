@@ -50,12 +50,16 @@ You are a traveler and traveling to a country where the currency denominations a
 unknown and as you travel, you get to know about the denomination in random order.
 You want to make a payment of amount x, in such a way that the number of notes you give
 is minimum.
-//Assume that the denominations are in such a way that any amount can be paid.
+
+Assume that the denominations are in such a way that any amount can be paid.
+
 Input
+
 Take input of all the currency denominations ( random order)
 Take input of the amount that you want to pay.
 Output
 Print the minimum no of notes that you will be using to pay the net amount.
+
 TestCase 1
 Enter the size of currency denominations
 3
@@ -68,6 +72,9 @@ Enter the amount you want to pay
 Your payment approach in order to give min no of notes will be
 10:1
 1:2
+
+-------------------------------------------------------------------------------------------
+
 TestCase 2
 Enter the size of currency denominations
 5
@@ -82,6 +89,9 @@ Enter the amount you want to pay
 Your payment approach in order to give min no of notes will be
 78:1
 25:2
+
+----------------------------------------------------------------------------------------------
+
 TestCase 3
 Enter the size of currency denominations
 4
